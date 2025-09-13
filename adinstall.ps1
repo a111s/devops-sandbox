@@ -1,2 +1,3 @@
-#This will help prep the server
+#This will help prep the server for AD install
+get-windowsfeature
 
